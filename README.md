@@ -5,7 +5,7 @@ It includes materials, tasks, and solutions to help you learn and master Python 
 
 ---
 
-# 📝 Topics
+## 📝 Topics
 
 | No | Topic                    | Notebooks | Tasks     | Tasks Solutions |
 |----|--------------------------|-----------|-----------|-----------|
@@ -19,7 +19,21 @@ It includes materials, tasks, and solutions to help you learn and master Python 
 
 ---
 
-# 🐦‍🔥 Projects
+## 🐍 Python Practice Resources
+
+| Resource Name              | Description                                | Link |
+|---------------------------|--------------------------------------------|------|
+| Practice Python           | Beginner-friendly exercises with solutions | [🔥](https://www.practicepython.org/) |
+| LearnPython.org           | Interactive tutorials on Python basics     | [🔥](https://www.learnpython.org/en/Variables_and_Types#google_vignette) |
+| PyNative                  | Python exercises with solutions            | [🔥](https://pynative.com/python-exercises-with-solutions/) |
+| CodingBat                 | Practice problems with instant feedback    | [🔥](https://codingbat.com/python) |
+| SoloLearn - Python Intro  | Beginner course with quizzes and examples  | [🔥](https://www.sololearn.com/en/learn/courses/python-introduction) |
+| W3Schools Python Exercises| Simple problems with hints and answers     | [🔥](https://www.w3schools.com/python/python_exercises.asp) |
+| HackerRank - Python       | Competitive programming and challenges     | [🔥](http://hackerrank.com/domains/python) |
+
+---
+
+## 🐦‍🔥 Projects
 
 | No | Project Name                     | Links |
 |----|----------------------------------|-------|
@@ -30,3 +44,4 @@ It includes materials, tasks, and solutions to help you learn and master Python 
 | 5  | Password generator               | [Link] |
 | 6  | Restaurant order form menu       | [Link] |
 | 7  | ATM                              | [Link] |
+
