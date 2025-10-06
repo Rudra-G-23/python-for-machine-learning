@@ -1,11 +1,17 @@
-<!-- Bio -->
+# 🐍 Python for Machine Learning
+
+![Doc Img](https://i.pinimg.com/736x/a5/9a/2a/a59a2afe387d649cee2f819e9dd20110.jpg)
+
 <p align="center">
-  <img src="https://github.com/Rudra-G-23/breast-cancer-prediction-app/blob/main/assets/rudra.png?raw=true" alt="rudra" width="300"/>
+  🐦‍🔥 <strong>Documentation:</strong> 
+  <a href="https://rudra-g-23.github.io/python-for-machine-learning/" target="_blank">
+    "https://rudra-g-23.github.io/python-for-machine-learning/
+  </a>
 </p>
 
-<!-- refer this for animation "https://github.com/DenverCoder1/readme-typing-svg?tab=readme-ov-file" -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=5E17EB&center=true&vCenter=true&width=435&lines=Rudra+Prasad+Bhuyan;Data+Lover;Data+Science+Enthusiast" alt="Typing Effect" />
+<p algin="center">
+  <a href="https://rudra-g-23.github.io/python-for-machine-learning/">
+  <src="https://rudra-g-23.github.io/python-for-machine-learning/">
 </p>
 
 <!-- refer this for the badges "https://github.com/Ileriayo/markdown-badges#-developerforums" -->
@@ -33,6 +39,8 @@
 ---
 
 ###  Table of Contents
+- [🐍 Python for Machine Learning](#-python-for-machine-learning)
+    - [Table of Contents](#table-of-contents)
 - [Python Fundamental](#python-fundamental)
   - [⚔️ Python Basic](#️-python-basic)
   - [🔥 OOPs](#-oops)
