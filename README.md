@@ -1,40 +1,4 @@
-# 🐍 Python for Machine Learning
-
-![Doc Img](https://i.pinimg.com/736x/a5/9a/2a/a59a2afe387d649cee2f819e9dd20110.jpg)
-
-<p align="center">
-  🐦‍🔥 <strong>Documentation:</strong> 
-  <a href="https://rudra-g-23.github.io/python-for-machine-learning/" target="_blank">
-    "https://rudra-g-23.github.io/python-for-machine-learning/
-  </a>
-</p>
-
-<p algin="center">
-  <a href="https://rudra-g-23.github.io/python-for-machine-learning/">
-  <src="https://rudra-g-23.github.io/python-for-machine-learning/">
-</p>
-
-<!-- refer this for the badges "https://github.com/Ileriayo/markdown-badges#-developerforums" -->
-<p align="center">
-  <a href="https://github.com/Rudra-G-23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rudra-prasad-bhuyan-44a388235">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/rudraprasadbhuyan">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rudra-G-23/Data-Science-Roadmap">
-    <img src="https://img.shields.io/badge/Data_Science_My_journey -Explore-red?style=for-the-badge" alt="Data Science Roadmap Badge"/>
-  </a>
-  <a href="https://github.com/Rudra-G-23/data-science-projects">
-    <img src="https://img.shields.io/badge/Data_Science_Projects-View-green?style=for-the-badge" alt="Data Science Projects Badge"/>
-  </a>
-</p>
+# 🐍 Python for Machine Learning [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Rudra-G-23/python-for-machine-learning)
 
 ---
 
@@ -119,4 +83,6 @@ coming soon ...
 But where I learn all of this 
 None other than my dear Nitish sir 💖[CampusX](https://youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&si=0RSPk0bV5hv5bFpi)
 
-Check out my others repos : [![Data Science Roadmap](https://img.shields.io/badge/Data_Science_Roadmap-Explore-blue)](https://github.com/Rudra-G-23/Data-Science-Roadmap) [![Data Science Projects](https://img.shields.io/badge/Data_Science_Projects-View-green)](https://github.com/Rudra-G-23/data-science-projects)
+Check out my others repos : [![Data Science Roadmap](https://img.shields.io/badge/Data_Science_Roadmap-Explore-blue)](https://github.com/Rudra-G-23/Data-Science-Roadmap) [![Data Science Projects](https://img.shields.io/badge/Data_Science_Projects-View-green)](https://github.com/Rudra-G-23/data-science-projects) 
+
+Connect with me: https://rudra-g-23.github.io/
